@@ -3,7 +3,7 @@ title: "יצירת קשר"
 description: ""
 menu: main
 weight: 50
-# image: images/banner.jpg
-image_alt: "About"
 tags: []
 ---
+
+לשאלות, ניתן לפנות למייל [yoga23contact@gmail.com](mailto:yoga23contact@gmail.com) או לדניאל סלוצקי בקבוצת הצ'אט.
