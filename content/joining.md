@@ -2,7 +2,7 @@
 title: "הצטרפות"
 description: ""
 menu: main
-weight: 50
+weight: 30
 tags: []
 ---
 
