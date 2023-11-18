@@ -1,8 +1,8 @@
 ---
-title: "מפגשים"
+title: "תכנית המפגשים"
 description: ""
 menu: main
-weight: 20
+weight: 25
 tags: []
 ---
 
