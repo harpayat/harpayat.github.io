@@ -1,7 +1,7 @@
 banner:
   enable: true
   image: "images/banner.jpg"
-  contents: "יוגה 23: קבוצת לימוד ליוגה ולאנטומיה"
+  contents: "יוגה תקווה: קבוצת לימוד ליוגה ולאנטומיה"
   button:
     contents: "אודות הקבוצה"
     url: "about"
