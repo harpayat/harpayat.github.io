@@ -7,4 +7,4 @@ image: images/metal1.jpg
 tags: []
 ---
 
-לשאלות, ניתן לפנות למייל [yoga23contact@gmail.com](mailto:yoga23contact@gmail.com) או לדניאל סלוצקי.
+לשאלות, ניתן לפנות למייל [harpayat@gmail.com](mailto:harpayat@gmail.com) או לדניאל סלוצקי.
