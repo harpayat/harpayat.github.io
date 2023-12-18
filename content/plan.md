@@ -3,6 +3,7 @@ title: "תכנית המפגשים"
 description: ""
 menu: main
 weight: 25
+image: images/air3.jpg
 tags: []
 ---
 

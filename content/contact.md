@@ -3,6 +3,7 @@ title: "יצירת קשר"
 description: ""
 menu: main
 weight: 50
+image: images/metal1.jpg
 tags: []
 ---
 

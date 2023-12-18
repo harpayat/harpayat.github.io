@@ -3,7 +3,7 @@ title: "אודות הקבוצה"
 description: ""
 menu: main
 weight: 10
-# image: images/banner.jpg
+image: images/water1.jpg
 image_alt: "About"
 tags: []
 ---

@@ -3,6 +3,7 @@ title: "מפגשים"
 description: ""
 menu: main
 weight: 20
+image: images/air4.jpg
 tags: []
 ---
 

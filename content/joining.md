@@ -3,6 +3,7 @@ title: "הצטרפות"
 description: ""
 menu: main
 weight: 30
+image: images/wood1.jpg
 tags: []
 ---
 

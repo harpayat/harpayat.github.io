@@ -3,6 +3,7 @@ title: "צ'אט"
 description: ""
 menu: main
 weight: 40
+image: images/fire1.jpg
 tags: []
 ---
 
