@@ -1,7 +1,7 @@
 banner:
   enable: true
   image: "images/banner.jpg"
-contents: "הרפיית המאמץ: קבוצת לימוד ליוגה ולאנטומיה"
+  contents: "הרפיית המאמץ: קבוצת לימוד ליוגה ולאנטומיה"
   button:
     contents: "אודות הקבוצה"
     url: "about"
